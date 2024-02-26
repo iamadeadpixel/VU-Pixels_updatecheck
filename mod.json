@@ -1,0 +1,11 @@
+{
+    "Name": "Pixels Updatecheck",
+    "Description": "checks the Version on github and compares it with the local version",
+    "Version": "1.0.1",
+    "Reason": "Revamped version", 
+    "Authors": [ "iamadeadpixel" ],
+    "HasVeniceEXT": true,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+     }
+}
