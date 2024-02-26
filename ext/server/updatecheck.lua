@@ -18,7 +18,7 @@ local s_ErrorMSG = "Guru Meditation 404: Seems the owner changed something, Or g
     local s_githublink = ("https://github.com/iamadeadpixel/VU-Pixels_Tickets")
 
 -- github link to your mod.json file
-    local CheckURL = "http://test.xs4non.nl:85/mod.json"
+    local CheckURL = "https://raw.githubusercontent.com/iamadeadpixel/VU-Pixels_updatecheck/main/mod.json"
 
 -- Show up-to-date message
     local ShowUptodateMsg = true
